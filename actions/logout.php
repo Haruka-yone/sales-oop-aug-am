@@ -4,4 +4,7 @@
     $user = new User;
 
     $user->logout();
+
+
+    // This is logout version2 code
 ?>
